@@ -8,7 +8,9 @@ public class GerardPanisello {
         this.username = "gerardpanisello";
         this.location = "Catalonia";
         this.instagram = "@gerardpanisello";
-        this.web = "https"; //WIP
+        this.web = "www.gerardpanisello.com";
+        this.mail = "contact@gerardpanisello.com"
+        
     }
 
     public static void main(String[] args) {
