@@ -4,10 +4,11 @@ public class GerardPanisello {
 
     public GerardPanisello() {
         this.name = "Gerard Panisello Gil";
+        this.studies = "Computer Engineering" 
         this.username = "gerardpanisello";
         this.location = "Catalonia";
-        this.twitter = "@";
-        this.web = "https";
+        this.twitter = "@"; //WIP
+        this.web = "https"; //WIP
     }
 
     public static void main(String[] args) {
