@@ -7,7 +7,7 @@ public class GerardPanisello {
         this.studies = "Computer Engineering" 
         this.username = "gerardpanisello";
         this.location = "Catalonia";
-        this.twitter = "@"; //WIP
+        this.instagram = "@gerardpanisello";
         this.web = "https"; //WIP
     }
 
