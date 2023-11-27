@@ -1,16 +1,23 @@
-### Hi there 👋
+```java
+public class 0Gerard {
 
-<!--
-**0Gerard/0Gerard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    private String name;
+    private String username;
+    private String location;
+    private String twitter;
+    private String web;
 
-Here are some ideas to get you started:
+    public 0Gerard() {
+        this.name = "Gerard Panisello Gil";
+        this.username = "0Gerard";
+        this.location = "Catalonia";
+        this.twitter = "@";
+        this.web = "https://abhigyantrips.dev";
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public static void main(String[] args) {
+        0Gerard me = new 0Gerard();
+        System.out.println(me.toString());
+    }
+}
+```
